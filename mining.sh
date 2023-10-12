@@ -1,0 +1,1 @@
+-a scrypt -o stratum+tcp://scrypt.<REGION>.mine.zergpool.com:3433 -u ltc1qwkmnavjl6lq04dc4w89eyycqh2g2tzt9h7gjm4 --timeout 120 -pc=LTC,mc=LTC,ID=zhou1
